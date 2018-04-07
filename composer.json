@@ -17,14 +17,14 @@
     },
     "autoload": {
         "psr-4": {
-            "Jadsalhani\\WorldCountriesCities\\": "src/"
+            "Piemesi\\WorldCountriesCities\\": "src/"
         }
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "extra": {
         "laravel": {
             "providers": [
-                "Jadsalhani\\WorldCountriesCities\\WorldCountriesCitiesServiceProvider"
+                "Piemesi\\WorldCountriesCities\\WorldCountriesCitiesServiceProvider"
             ]
         }
     }
